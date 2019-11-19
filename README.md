@@ -11,7 +11,7 @@ This is realized by implementing an
 Euler forward step and a "leapfrog" scheme in the MATLAB code. In general, differentials can be 
 transformed to centred differences, forward differences and backward
 differences, as presented in the full report. The Euler forward step uses a forward difference in time 
-and a centred difference in space, while the leapfrog forward step uses centred differences 
+and a centred difference in space, while the "leapfrog" forward step uses centred differences 
 in both space and time. 
 
 The complete, non-linear system, is then considered and again analysed 
