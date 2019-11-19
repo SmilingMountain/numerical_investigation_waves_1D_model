@@ -24,7 +24,7 @@ fluid in response to gravitational and rotational accelerations. The one-dimensi
 are used extensively in computer models because they are significantly easier to solve than
 the full shallow water equations.
 
-The full project report contains all the necessary background information and details, methods used, results and conclussions.
+The full project report contains all the necessary background information and details, methods used, results and conclusions.
 The MATLAB script files contain code for the various cases considered, as indicated by their names, and include an appropriate level of commenting and documentation.
 
 
